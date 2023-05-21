@@ -67,9 +67,21 @@ void loop()
 ~~~
 
 ---
+
+## Diagrama:   
+---
+![Diagrama](diagrama.png)
+
+
+## Componentes:  
+---
+![Componentes](componentes.png)
+
+---
+
 ## Link al proyecto
 
-- [proyecto](https://www.tinkercad.com/things/2WKwxqE7K3B?sharecode=eJYGjR2M4bK_9IeDN85Z1CMlQcvg-5Tilxm0L725pzw)
+- [PROYECTO](https://www.tinkercad.com/things/2WKwxqE7K3B?sharecode=eJYGjR2M4bK_9IeDN85Z1CMlQcvg-5Tilxm0L725pzw)
 
 - [GDB](https://onlinegdb.com/bnIlBmOJH)
 
